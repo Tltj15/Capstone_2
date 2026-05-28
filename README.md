@@ -5,10 +5,10 @@ Analyzing EmporiUm student bookstore. For sales territory manager Miami Vue and 
 ## Tools Used 
 For this analysis I used jupyternotebook in VScode. 
 Imported :
-*pandas as pd
-*numpy as np
-*matplotlib.pyplot as plt
-*datetime
+* pandas as pd
+* numpy as np
+* matplotlib.pyplot as plt
+* datetime
 
 ## Type of Tasks
 In order to help me answer the questions asked I did the following:
@@ -30,10 +30,10 @@ Used .CSV data files and created dataframes to analyize
 
 ## Visuals
 Bar, barh, and line charts
-*Miami Vue 2025 revenue performance
-*Top and Bottom Revenue Performance by Manager/Category/Month
-*Top and Bottom Monthly Transaction Count by Manager
-*Top and Bottom Store Ranking by Store Location
+* Miami Vue 2025 revenue performance
+* Top and Bottom Revenue Performance by Manager/Category/Month
+* Top and Bottom Monthly Transaction Count by Manager
+* Top and Bottom Store Ranking by Store Location
 
 # Video
 
