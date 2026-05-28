@@ -9,6 +9,8 @@ Imported :
 * numpy as np
 * matplotlib.pyplot as plt
 * datetime
+* from sklearn.linear_model import LinearRegression
+
 
 ## Type of Tasks
 In order to help me answer the questions asked I did the following:
@@ -17,23 +19,26 @@ In order to help me answer the questions asked I did the following:
 * .to_datetime to modify date .strftime
 * Added sales amounts with .sum
 * Combined dataframes using .concat
-* Use plt.bar/barh/plot : .xlabel, .ylabel, .title, .grid, .figure, .xticks, marker, color, linestyle
+* Use plt.bar/barh/plot : .xlabel, .ylabel, .title, .grid, .figure, .xticks, marker, color, linestyle, model, .fit, predictions
 * .split to form individual columns
 * .fillna to give NaN a value of 0
 * .rename columns 
-*.count to count occurences
-*.astype(str)
-*.isin
+* .count to count occurences
+* .astype(str)
+* .isin
+* scikit-learn
+  
 
 ## File type
 Used .CSV data files and created dataframes to analyize
 
 ## Visuals
-Bar, barh, and line charts
-* Miami Vue 2025 revenue performance
-* Top and Bottom Revenue Performance by Manager/Category/Month
-* Top and Bottom Monthly Transaction Count by Manager
+Bar, barh, line, LinearRegression charts
+* Miami Vue 2025 Revenue Performance
+* Top and Bottom Revenue Performance by Manager/CategoryID/Month
+* Top and Bottom Monthly Transaction Count by Manager/Month/CategoryID
 * Top and Bottom Store Ranking by Store Location
+* Revenue Trend for Miami Vue 2025
 
 # Video
 
