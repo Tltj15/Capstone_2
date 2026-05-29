@@ -1,6 +1,6 @@
 # Capstone_2
 ## Introduction
-Analyzing EmporiUm student bookstore. For sales territory manager Miami Vue and comparing to Bo Heap, in the NorthEast region. For states New Jersey(Miami Vue) and Massachusetts(Bo Heap). New Jersey has 16 store locations and Massachusetts has 18 store locations. This data is over a 4 year period from 2022 -2025. And at the end I will proivde my recommendation on where my assigned territory manager Miami Vue should focus on for the next quarter
+Analyzing EmporiUm student bookstore. For sales territory manager Miami Vue and comparing to Bo Heap, in the NorthEast region. For states New Jersey(Miami Vue) and Massachusetts(Bo Heap). New Jersey has 16 store locations and Massachusetts has 18 store locations. This data is over a 4 year period from 2022 -2025. And at the end I will proivde my recommendation on where my assigned territory manager Miami Vue should focus on for the next quarter.
 
 ## Tools Used 
 For this analysis I used jupyternotebook in VScode. 
@@ -30,7 +30,7 @@ In order to help me answer the questions asked I did the following:
   
 
 ## File type
-Used .CSV data files and created dataframes to analyize
+Used .CSV data files and created dataframes to analyze
 
 ## Visuals
 Bar, barh, line, LinearRegression charts
@@ -41,5 +41,6 @@ Bar, barh, line, LinearRegression charts
 * Revenue Trend for Miami Vue 2025
 
 # Video
-
+watch my presentation video here:
+https://drive.google.com/file/d/1BC_n32JIVChzUGDa1RpVdAMK7x2RO4FS/view?usp=sharing
 
